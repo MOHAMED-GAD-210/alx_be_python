@@ -1,4 +1,3 @@
-200~temp_conversion_tool.py
 
 # Global Conversion Factors
 FAHRENHEIT_TO_CELSIUS_FACTOR = 5 / 9
